@@ -4,9 +4,23 @@ A powerful command-line RSS feed aggregator built in Go that helps you follow an
 
 ## Prerequisites
 
+1. Install required tools:
 - Go 1.20 or higher
 - PostgreSQL 12 or higher
+- SQLC
+- Goose (for migrations)
 
+2. Database Setup:
+```bash
+# Create PostgreSQL database
+createdb gator
+
+# Run migrations
+goose postgres "postgresql://username:password@localhost:5432/gator?sslmode=disable" up
+
+# Generate database code
+sqlc generate
+```
 ## Installation
 
 Install the Gator CLI directly using Go:
@@ -17,7 +31,7 @@ go install github.com/qepting91/aggregator@latest
 
 ## Configuration
 
-1. Create a config file at `~/.config/gator/config.json`:
+1. update the .gatorconfig.json.example to .gatorconfig.json and replate the password with the postgres password you created:
 ```json
 {
     "database_url": "postgresql://username:password@localhost:5432/gator?sslmode=disable"
