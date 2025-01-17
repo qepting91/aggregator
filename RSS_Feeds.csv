@@ -1,0 +1,97 @@
+Name,RSS Feed
+nao_sec,https://nao-sec.org/feed
+Seb Draven,https://medium.com/feed/@sebdraven
+Darknet,http://www.darknet.org.uk/feed/
+/r/cybersecurity,https://www.reddit.com/r/cybersecurity/.rss
+/r/netsec,http://www.reddit.com/r/netsec/.rss
+BSI RSS-Newsfeed,https://www.bsi.bund.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/RSSNewsfeed.xml
+Center for Internet Security (Advisories),https://www.cisecurity.org/feed/advisories
+DHS (Automated Indicator Sharing),https://www.cisa.gov/automated-https:indicator-sharing-ais
+Infosec Institute (malware analysis),https://resources.infosecinstitute.com/topics/malware-analysis/feed/
+Infosec Institute (news),https://resources.infosecinstitute.com/topics/news/feed/
+Infosec Institute (threat intelligence),https://resources.infosecinstitute.com/topics/threat-intelligence/feed/
+NIST Cybersecurity Insights,https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+SANS Internet Storm Center,https://isc.sans.edu/rssfeed_full.xml
+US-Cert National Cyber Awareness System (Advisories),https://us-cert.cisa.gov/ics/advisories/advisories.xml
+US-Cert National Cyber Awareness System (Alerts),https://us-cert.cisa.gov/ncas/alerts.xml
+US-Cert National Cyber Awareness System (Analysis Reports),https://us-cert.cisa.gov/ncas/analysis-reports.xml
+US-Cert National Cyber Awareness System (Current Activity),https://us-cert.cisa.gov/ncas/current-activity.xml
+Anton on Security,https://medium.com/feed/anton-on-security
+Ars Technica (Security),https://arstechnica.com/tag/security/feed/
+bellingcat,https://www.bellingcat.com/feed/
+BleepingComputer,https://www.bleepingcomputer.com/feed
+CIO Magazine (Security),https://www.cio.com/category/security/index.rss
+Dark Reading (all),https://www.darkreading.com/rss/all.xml
+Graham Cluley,https://www.grahamcluley.com/feed/
+Guardian (Data and computer security),https://www.theguardian.com/technology/data-computer-security/rss
+HackerOne,https://www.hackerone.com/blog.rss
+HACKMAGEDDON,https://www.hackmageddon.com/feed/
+HackRead,https://www.hackread.com/feed/
+Infosecurity Magazine (news),http://www.infosecurity-magazine.com/rss/news/
+Intezer,https://www.intezer.com/blog/feed/
+Krebs on Security,http://krebsonsecurity.com/feed/
+Lohrmann on Cybersecurity,http://feeds.feedburner.com/govtech/blogs/lohrmann_on_infrastructure
+Malware Traffic Analysis,http://www.malware-traffic-analysis.net/blog-entries.rss
+Motherboard (tech),https://www.vice.com/en_us/rss/section/tech
+Schneier on Security,https://www.schneier.com/blog/atom.xml
+Security Affairs,http://securityaffairs.co/wordpress/feed
+TechRepublic (security),http://www.techrepublic.com/rssfeeds/topic/security/?feedType=rssfeeds
+Threatpost,https://threatpost.com/feed/
+Troy Hunt,https://www.troyhunt.com/rss/
+WIRED Security,https://www.wired.com/feed/category/security/latest/rss
+ZDNet (security),https://www.zdnet.com/topic/security/rss.xml
+0patch Blog,https://blog.0patch.com/feeds/posts/default
+Anomali,https://www.anomali.com/site/blog-rss
+AT&T Cybersecurity,https://cybersecurity.att.com/site/blog-all-rss
+Bitdefender Labs,https://www.bitdefender.com/blog/api/rss/labs/
+Broadcom Symantec blogs,https://sed-cms.broadcom.com/rss/v1/blogs/rss.xml
+Checkpoint,https://research.checkpoint.com/feed/
+Cisco Security Blog,https://blogs.cisco.com/security/feed
+Cisco Talos Intelligence Group,http://feeds.feedburner.com/feedburner/Talos
+Cloudflare Security Blog,https://blog.cloudflare.com/tag/security/rss
+Cofense Intelligence,https://cofense.com/feed/
+Crowdstrike (Threat Research),https://www.crowdstrike.com/blog/category/threat-intel-research/feed
+Digital Shadows,https://www.digitalshadows.com/blog-and-research/feed/
+EclecticIQ,https://blog.eclecticiq.com/rss.xml
+We Live Security (ESET),http://eset.com/int/rss.xml
+FireEye,http://www.fireeye.com/blog/feed
+Fox-IT International blog,https://blog.fox-it.com/feed/
+Fortinet (threat research),http://feeds.feedburner.com/fortinet/blog/threat-research
+Google Online Security,https://googleonlinesecurity.blogspot.com/atom.xml
+Google Project Zero,https://googleprojectzero.blogspot.com/feeds/posts/default
+IBM Security Intelligence,https://securityintelligence.com/feed/
+Malwarebytes Labs,https://blog.malwarebytes.com/feed/
+McAfee Labs,https://www.mcafee.com/blogs/feed
+Microsoft Security Blog,https://www.microsoft.com/security/blog/feed/
+Microsoft Security Response Center,https://msrc-blog.microsoft.com/feed/
+Naked Security (Sophos),https://nakedsecurity.sophos.com/feed/
+Proofpoint,https://www.proofpoint.com/us/rss.xml
+Qualys Blog,https://blog.qualys.com/feed
+Quarkslab blog,https://blog.quarkslab.com/feeds/all.rss.xml
+Quick Heal Antivirus,https://blogs.quickheal.com/feed/
+The Record,https://therecord.media/feed/
+Recorded Future (Cyber Threat Intelligence),https://www.recordedfuture.com/category/cyber/feed/
+Recorded Future (Threat Intelligence),https://www.recordedfuture.com/category/threat-intelligence/feed/
+Recorded Future (Vulnerability Management),https://www.recordedfuture.com/category/vulnerability-management/feed/
+Recorded Future (Research),https://www.recordedfuture.com/category/research/vulnerability-management/feed/
+Recorded Future (Geopolitical Intelligence),https://www.recordedfuture.com/category/geopolitical/feed/
+RiskIQ,https://www.riskiq.com/feed/
+SecureList (Kaspersky),https://securelist.com/feed/
+Dell SecureWorks (Research & Intelligence),https://www.secureworks.com/rss?feed=blog&category=research-intelligence
+SensePost (Orange),https://sensepost.com/rss.xml
+SentinelOne Labs,https://www.sentinelone.com/labs/feed/
+SOC Prime,https://socprime.com/blog/feed/
+Signals Corps,https://www.signalscorps.com/feed.xml
+SpecterOps,https://posts.specterops.io/feed
+Trend Micro,http://feeds.trendmicro.com/TrendMicroSimplySecurity
+Tripwire,https://www.tripwire.com/state-of-security/feed/
+TrustArc,https://www.trustarc.com/blog/feed/
+PaloAlto Networks Blog,https://www.paloaltonetworks.com/blog/rss
+PaloAlto Networks Unit 42,http://researchcenter.paloaltonetworks.com/unit42/feed/
+PhishLabs,http://blog.phishlabs.com/rss.xml
+UpGuard Blog (news),https://www.upguard.com/news/rss.xml
+UpGuard Blog (breaches),https://www.upguard.com/breaches/rss.xml
+Veracode Security Blog,http://www.veracode.com/blog/feed/
+Virus Bulletin,https://www.virusbulletin.com/rss
+VirusTotal Blog,https://blog.virustotal.com/feeds/posts/default
+Webroot Threat Blog,https://www.webroot.com/blog/feed/
